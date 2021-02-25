@@ -13,11 +13,14 @@
 
 ## Requirements
 In order to use this repo you need to have abapGit installed in the system you want to add the logo to. 
+You will need a logo that is appropriately sized, 500px x 500px worked well for us. 
+If you want to transport the logo, you will need to create a transport in the SAP system
 
 ## Setup
-1. Fork this repo
-2. Replace logo in the forked repo
-3. Clone the forked in your SAP system to update the logo
+1. For repo
+2. Replace logo in /src/ztxc_logo.w3mi.data.png
+3. Clone this repo in your SAP system using abapGit 
+4. Optional: delete the forked repo
 
 ## Status
 Project is: _finished_
