@@ -15,9 +15,9 @@
 In order to use this repo you need to have abapGit installed in the system you want to add the logo to. 
 
 ## Setup
-1. For repo
-2. Replace logo
-3. Clone this repo in your SAP system to update the logo
+1. Fork this repo
+2. Replace logo in the forked repo
+3. Clone the forked in your SAP system to update the logo
 
 ## Status
 Project is: _finished_
