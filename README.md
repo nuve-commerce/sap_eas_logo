@@ -18,7 +18,9 @@ If you want to transport the logo, you will need to create a transport in the SA
 
 ## Setup
 1. For repo
-2. Replace logo in /src/ztxc_logo.w3mi.data.png
+2. Replace logo in /src/ztxc_logo.w3mi.data.png 
+> The name of your logo must be identical i.e. ztxc_logo.w3mi.data.png
+> Alternatively, you can update the references throughout your fork of the logo name if you want to use your own filename
 3. Clone this repo in your SAP system using abapGit 
 4. Optional: delete the forked repo
 
