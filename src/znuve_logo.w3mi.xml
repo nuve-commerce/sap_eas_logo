@@ -9,19 +9,19 @@
      <RELID>MI</RELID>
      <OBJID>ZNUVE_LOGO</OBJID>
      <NAME>fileextension</NAME>
-     <VALUE>.PNG</VALUE>
+     <VALUE>.JPG</VALUE>
     </WWWPARAMS>
     <WWWPARAMS>
      <RELID>MI</RELID>
      <OBJID>ZNUVE_LOGO</OBJID>
      <NAME>filename</NAME>
-     <VALUE>ZNUVE_LOGO.W3MI.DATA.PNG</VALUE>
+     <VALUE>ZNUVE_LOGO.W3MI.DATA.JPG</VALUE>
     </WWWPARAMS>
     <WWWPARAMS>
      <RELID>MI</RELID>
      <OBJID>ZNUVE_LOGO</OBJID>
      <NAME>mimetype</NAME>
-     <VALUE>image/png</VALUE>
+     <VALUE>image/jpg</VALUE>
     </WWWPARAMS>
    </PARAMS>
   </asx:values>
